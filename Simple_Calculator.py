@@ -57,7 +57,7 @@ if x==5:
 if x==6:
     mod()
     
-while(1<x>6):
+if (1<x>6):
     print(" Wrong Option")
     
 
